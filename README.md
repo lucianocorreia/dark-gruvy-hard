@@ -9,7 +9,7 @@ A hard, dark color theme for Visual Studio Code with muted Gruvbox-inspired tone
 | Background | `#17191A` |
 | Foreground | `#B8B09E` |
 | Tags and components | `#769A90` |
-| Keywords and operators | `#8FA9B5` |
+| Keywords and operators | `#B85F5C` |
 | Strings and accents | `#A5A75B` |
 | Types | `#B89156` |
 | Errors and constants | `#B66D4A` |

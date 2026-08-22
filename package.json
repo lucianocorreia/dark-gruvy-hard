@@ -2,7 +2,7 @@
   "name": "dark-gruvy-hard",
   "displayName": "Dark Gruvy Hard",
   "description": "A hard dark Gruvbox-inspired color theme for Visual Studio Code.",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "publisher": "correiadark",
   "license": "MIT",
   "engines": {
@@ -21,7 +21,7 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lucianocorreia/dark-ever"
+    "url": "https://github.com/lucianocorreia/dark-gruvy-hard"
   },
   "contributes": {
     "themes": [

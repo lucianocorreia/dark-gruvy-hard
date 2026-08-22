@@ -37,7 +37,7 @@
     "editorBracketHighlight.foreground1": "#769A90",
     "editorBracketHighlight.foreground2": "#A5A75B",
     "editorBracketHighlight.foreground3": "#B89156",
-    "editorBracketHighlight.foreground4": "#8FA9B5",
+    "editorBracketHighlight.foreground4": "#B85F5C",
     "editorBracketHighlight.foreground5": "#83A879",
     "editorBracketHighlight.foreground6": "#AAA18F",
     "editorBracketMatch.background": "#2D2E2B",
@@ -140,7 +140,7 @@
     "terminal.ansiGreen": "#A5A75B",
     "terminal.ansiYellow": "#B89156",
     "terminal.ansiBlue": "#769A90",
-    "terminal.ansiMagenta": "#8FA9B5",
+    "terminal.ansiMagenta": "#B85F5C",
     "terminal.ansiCyan": "#83A879",
     "terminal.ansiWhite": "#B8B09E",
     "terminal.ansiBrightBlack": "#625C53",
@@ -148,7 +148,7 @@
     "terminal.ansiBrightGreen": "#A5A75B",
     "terminal.ansiBrightYellow": "#B89156",
     "terminal.ansiBrightBlue": "#769A90",
-    "terminal.ansiBrightMagenta": "#8FA9B5",
+    "terminal.ansiBrightMagenta": "#B85F5C",
     "terminal.ansiBrightCyan": "#83A879",
     "terminal.ansiBrightWhite": "#C8C0AD",
     "terminalCommandDecoration.defaultBackground": "#769A90",
@@ -167,7 +167,7 @@
     },
     {
       "scope": ["keyword", "storage", "keyword.control"],
-      "settings": { "foreground": "#8FA9B5" }
+      "settings": { "foreground": "#B85F5C" }
     },
     {
       "scope": ["string", "string.quoted", "string.regexp"],
@@ -203,7 +203,7 @@
     },
     {
       "scope": ["keyword.operator"],
-      "settings": { "foreground": "#8FA9B5" }
+      "settings": { "foreground": "#B85F5C" }
     },
     {
       "scope": [
@@ -214,7 +214,7 @@
         "storage.type.function.arrow",
         "storage.type.function.arrow.rust"
       ],
-      "settings": { "foreground": "#8FA9B5" }
+      "settings": { "foreground": "#B85F5C" }
     },
     {
       "scope": [
@@ -249,7 +249,7 @@
     },
     {
       "scope": ["entity.name.function.decorator", "meta.decorator", "storage.type.annotation"],
-      "settings": { "foreground": "#8FA9B5" }
+      "settings": { "foreground": "#B85F5C" }
     },
     {
       "scope": ["support.macro.rust", "entity.name.function.macro.rust"],
@@ -273,11 +273,11 @@
     "enumMember": "#B8B09E",
     "type": "#B89156",
     "typeParameter": "#769A90",
-    "decorator": "#8FA9B5",
-    "keyword": "#8FA9B5",
+    "decorator": "#B85F5C",
+    "keyword": "#B85F5C",
     "selfKeyword": "#B89156",
     "function": "#769A90",
-    "operator": "#8FA9B5",
+    "operator": "#B85F5C",
     "number": "#B66D4A",
     "boolean": "#B66D4A",
     "variable": "#B8B09E",
