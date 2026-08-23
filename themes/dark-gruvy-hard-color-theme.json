@@ -194,8 +194,12 @@
       "settings": { "foreground": "#B8B09E" }
     },
     {
-      "scope": ["variable.language.this", "variable.language.self"],
+      "scope": ["variable.language.this"],
       "settings": { "foreground": "#B89156" }
+    },
+    {
+      "scope": ["variable.language.self"],
+      "settings": { "foreground": "#B66D4A" }
     },
     {
       "scope": ["punctuation", "punctuation.definition", "keyword.operator"],
@@ -275,7 +279,7 @@
     "typeParameter": "#769A90",
     "decorator": "#C27C7C",
     "keyword": "#C27C7C",
-    "selfKeyword": "#B89156",
+    "selfKeyword": "#B66D4A",
     "function": "#769A90",
     "operator": "#C27C7C",
     "number": "#B66D4A",
