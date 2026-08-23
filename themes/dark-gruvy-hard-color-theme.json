@@ -5,14 +5,14 @@
   "colors": {
     "activityBar.background": "#1C1E1F",
     "activityBar.foreground": "#B8B09E",
-    "activityBar.inactiveForeground": "#625C53",
+    "activityBar.inactiveForeground": "#8A8175",
     "activityBar.activeBorder": "#A5A75B",
     "activityBarBadge.background": "#B66D4A",
-    "activityBarBadge.foreground": "#202223",
+    "activityBarBadge.foreground": "#000000",
     "badge.background": "#B66D4A",
-    "badge.foreground": "#202223",
+    "badge.foreground": "#000000",
     "button.background": "#B66D4A",
-    "button.foreground": "#202223",
+    "button.foreground": "#000000",
     "button.hoverBackground": "#C77F5E",
     "button.secondaryBackground": "#2D2E2B",
     "button.secondaryForeground": "#B8B09E",
@@ -37,7 +37,7 @@
     "editorBracketHighlight.foreground1": "#769A90",
     "editorBracketHighlight.foreground2": "#A5A75B",
     "editorBracketHighlight.foreground3": "#B89156",
-    "editorBracketHighlight.foreground4": "#B85F5C",
+    "editorBracketHighlight.foreground4": "#C27C7C",
     "editorBracketHighlight.foreground5": "#83A879",
     "editorBracketHighlight.foreground6": "#AAA18F",
     "editorBracketMatch.background": "#2D2E2B",
@@ -52,7 +52,7 @@
     "editorGutter.addedBackground": "#A5A75B",
     "editorGutter.modifiedBackground": "#B89156",
     "editorGutter.deletedBackground": "#B66D4A",
-    "editorLineNumber.foreground": "#625C53",
+    "editorLineNumber.foreground": "#8A8175",
     "editorLineNumber.activeForeground": "#B89156",
     "editorIndentGuide.background1": "#2D2E2B",
     "editorIndentGuide.activeBackground1": "#625C53",
@@ -118,7 +118,7 @@
     "statusBar.background": "#1C1E1F",
     "statusBar.foreground": "#AAA18F",
     "statusBar.debuggingBackground": "#B66D4A",
-    "statusBar.debuggingForeground": "#202223",
+    "statusBar.debuggingForeground": "#000000",
     "statusBarItem.hoverBackground": "#2D2E2B",
     "statusBarItem.remoteBackground": "#2D2E2B",
     "statusBarItem.remoteForeground": "#B8B09E",
@@ -140,7 +140,7 @@
     "terminal.ansiGreen": "#A5A75B",
     "terminal.ansiYellow": "#B89156",
     "terminal.ansiBlue": "#769A90",
-    "terminal.ansiMagenta": "#B85F5C",
+    "terminal.ansiMagenta": "#C27C7C",
     "terminal.ansiCyan": "#83A879",
     "terminal.ansiWhite": "#B8B09E",
     "terminal.ansiBrightBlack": "#625C53",
@@ -148,7 +148,7 @@
     "terminal.ansiBrightGreen": "#A5A75B",
     "terminal.ansiBrightYellow": "#B89156",
     "terminal.ansiBrightBlue": "#769A90",
-    "terminal.ansiBrightMagenta": "#B85F5C",
+    "terminal.ansiBrightMagenta": "#C27C7C",
     "terminal.ansiBrightCyan": "#83A879",
     "terminal.ansiBrightWhite": "#C8C0AD",
     "terminalCommandDecoration.defaultBackground": "#769A90",
@@ -167,7 +167,7 @@
     },
     {
       "scope": ["keyword", "storage", "keyword.control"],
-      "settings": { "foreground": "#B85F5C" }
+      "settings": { "foreground": "#C27C7C" }
     },
     {
       "scope": ["string", "string.quoted", "string.regexp"],
@@ -203,7 +203,7 @@
     },
     {
       "scope": ["keyword.operator"],
-      "settings": { "foreground": "#B85F5C" }
+      "settings": { "foreground": "#C27C7C" }
     },
     {
       "scope": [
@@ -214,7 +214,7 @@
         "storage.type.function.arrow",
         "storage.type.function.arrow.rust"
       ],
-      "settings": { "foreground": "#B85F5C" }
+      "settings": { "foreground": "#C27C7C" }
     },
     {
       "scope": [
@@ -249,7 +249,7 @@
     },
     {
       "scope": ["entity.name.function.decorator", "meta.decorator", "storage.type.annotation"],
-      "settings": { "foreground": "#B85F5C" }
+      "settings": { "foreground": "#C27C7C" }
     },
     {
       "scope": ["support.macro.rust", "entity.name.function.macro.rust"],
@@ -273,11 +273,11 @@
     "enumMember": "#B8B09E",
     "type": "#B89156",
     "typeParameter": "#769A90",
-    "decorator": "#B85F5C",
-    "keyword": "#B85F5C",
+    "decorator": "#C27C7C",
+    "keyword": "#C27C7C",
     "selfKeyword": "#B89156",
     "function": "#769A90",
-    "operator": "#B85F5C",
+    "operator": "#C27C7C",
     "number": "#B66D4A",
     "boolean": "#B66D4A",
     "variable": "#B8B09E",
