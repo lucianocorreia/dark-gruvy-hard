@@ -23,7 +23,7 @@
     "dropdown.background": "#2D2E2B",
     "dropdown.border": "#625C53",
     "dropdown.foreground": "#B8B09E",
-    "editor.background": "#17191a",
+    "editor.background": "#202223",
     "editor.foreground": "#B8B09E",
     "editorCursor.foreground": "#C8C0AD",
     "editor.lineHighlightBackground": "#242625",
@@ -48,7 +48,7 @@
     "editorHint.foreground": "#83A879",
     "editorInlayHint.background": "#00000000",
     "editorInlayHint.foreground": "#AAA18F66",
-    "editorGutter.background": "#17191a",
+    "editorGutter.background": "#202223",
     "editorGutter.addedBackground": "#A5A75B",
     "editorGutter.modifiedBackground": "#B89156",
     "editorGutter.deletedBackground": "#B66D4A",
@@ -190,6 +190,10 @@
       "settings": { "foreground": "#B89156" }
     },
     {
+      "scope": ["entity.name.type.lifetime.rust"],
+      "settings": { "foreground": "#83A879" }
+    },
+    {
       "scope": ["variable", "variable.parameter"],
       "settings": { "foreground": "#B8B09E" }
     },
@@ -226,7 +230,7 @@
         "meta.variable.php punctuation.definition.variable.php",
         "source.php punctuation.definition.variable"
       ],
-      "settings": { "foreground": "#B66D4A" }
+      "settings": { "foreground": "#B89156" }
     },
     {
       "scope": ["markup.heading", "markup.heading.markdown"],
