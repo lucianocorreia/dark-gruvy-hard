@@ -225,14 +225,6 @@
       "settings": { "foreground": "#C27C7C" }
     },
     {
-      "scope": [
-        "punctuation.definition.variable.php",
-        "meta.variable.php punctuation.definition.variable.php",
-        "source.php punctuation.definition.variable"
-      ],
-      "settings": { "foreground": "#B89156" }
-    },
-    {
       "scope": ["markup.heading", "markup.heading.markdown"],
       "settings": { "foreground": "#B89156", "fontStyle": "bold" }
     },
