@@ -2,7 +2,7 @@
   "name": "dark-gruvy-hard",
   "displayName": "Dark Gruvy Hard",
   "description": "Two dark Gruvbox-inspired color themes for Visual Studio Code: Dark Gruvy and Dark Gruvy Hard.",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "publisher": "correiadark",
   "license": "MIT",
   "engines": {
