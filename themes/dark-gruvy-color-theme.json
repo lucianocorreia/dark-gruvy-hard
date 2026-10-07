@@ -79,7 +79,8 @@
     "list.activeSelectionForeground": "#C8C0AD",
     "list.focusBackground": "#383934",
     "list.focusForeground": "#C8C0AD",
-    "list.highlightForeground": "#A5A75B",
+    "list.highlightForeground": "#B66D4A",
+    "list.focusHighlightForeground": "#B66D4A",
     "list.hoverBackground": "#2D2E2B",
     "list.hoverForeground": "#B8B09E",
     "list.inactiveSelectionBackground": "#2D2E2B",
@@ -194,8 +195,16 @@
       "settings": { "foreground": "#83A879" }
     },
     {
-      "scope": ["variable", "variable.parameter"],
+      "scope": ["variable"],
       "settings": { "foreground": "#B8B09E" }
+    },
+    {
+      "scope": [
+        "variable.parameter",
+        "entity.name.variable.parameter",
+        "meta.function.parameters.php variable.other.php"
+      ],
+      "settings": { "foreground": "#B66D4A" }
     },
     {
       "scope": ["variable.language.this"],
@@ -281,7 +290,7 @@
     "number": "#B66D4A",
     "boolean": "#B66D4A",
     "variable": "#B8B09E",
-    "parameter": "#B8B09E",
+    "parameter": "#B66D4A",
     "property": "#B8B09E"
   }
 }

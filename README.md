@@ -13,6 +13,7 @@ Two dark color themes for Visual Studio Code with muted Gruvbox-inspired tones.
 | Editor background — Dark Gruvy Hard | `#141617` |
 | Sidebar and terminal background — Dark Gruvy Hard | `#0F1112` |
 | Foreground | `#B8B09E` |
+| Parameters | `#B66D4A` |
 | Tags and components | `#769A90` |
 | Keywords and operators | `#C27C7C` |
 | Strings and accents | `#A5A75B` |
