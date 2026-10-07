@@ -283,6 +283,7 @@
     "enumMember": "#B8B09E",
     "type": "#B89156",
     "typeParameter": "#769A90",
+    "typeParameter:csharp": "#B89156",
     "decorator": "#C27C7C",
     "keyword": "#C27C7C",
     "selfKeyword": "#B66D4A",
